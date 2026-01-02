@@ -1,10 +1,16 @@
-# Machine-Learning-Classification-Model-comparison
-Comparison of logistic regression, neural networks, and decision trees on a classification dataset, including feature transformation and performance evaluation.
+# Machine Learning Classification Model Comparison
 
-# 
+Implementation and comparison of multiple classification models on a real-world dataset.
+Logistic regression, neural networks, and decision trees are evaluated using consistent
+metrics to analyze model performance and tradeoffs.
 
-This project applies and compares multiple machine learning models 
-(logistic regression, neural networks, and decision trees) on a real-world 
-classification dataset. The analysis includes data preparation, feature 
-transformation, model evaluation, and performance comparison using standard 
-classification metrics.
+## Tools
+Python, Pandas, Scikit-learn
+
+## Concepts Demonstrated
+- Supervised classification
+- Feature preprocessing
+- Model training and evaluation
+- Confusion matrix analysis
+- Precision, recall, and F1-score comparison
+- Model interpretability vs complexity tradeoffs
